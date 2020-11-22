@@ -4,3 +4,5 @@
 
 - Foi publicado uma pagina (clone do site da netflix), utilizando as tecnologias voltado ao FrontEnd + HTML5 + CSS3 + JQuery . Aplicando conceitos como: Criação de Containers.  Utilização de Imagens dentro do containers.  Responsividade.
 
+- Site publicado no link: https://camila-github.github.io/projeto-dio-clone-netflix/index.html
+
