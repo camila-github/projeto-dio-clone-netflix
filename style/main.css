@@ -10,9 +10,7 @@
     box-sizing: border-box;
 }
 
-
 /*Elementos base */
-
 body {
     background: var(--preta);
     font-family: Arial, Helvetica, sans-serif;
